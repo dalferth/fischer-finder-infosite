@@ -10,15 +10,15 @@
                         <span class="text-primary">fischer</span>Finder
                     </h1>
 
+                    <h2>Next Level Kundenservice</h2>
+
                     <p>
-                        Der fischerFinder ist ein ChatBot, der es Kunden erleichtert, das richtige Befestigungsprodukt
-                        für ihren individuellen Anwendungsfall zu finden. Dabei kann der ChatBot sowohl über WhatsApp
-                        als auch über andere Messenger-Dienste wie Telegram genutzt werden. Ebenfalls ist eine
-                        Integration in die Kunden-Hotline möglich, um Mitarbeiter zu entlasten.
+                        Mit dem fischerFinder findet jeder Kunde das <strong>richtige Befestigungsprodukt</strong> für
+                        seinen konkreten Anwendungsfall.
                     </p>
 
                     <p>
-                        Unsere Idee kombiniert
+                        Unser innovativer fischerFinder setzt auf
                     </p>
 
                     <ul class="mb-2">
@@ -168,14 +168,13 @@
                 <section>
 
                     <h3>
-                        Datensammlung und -kategorisierung
+                        Datensammlung
                     </h3>
 
                     <p>
-                        Zunächst haben wir Bilder von verschiedenen Wandmaterialien gesammelt und diese entsprechend
-                        kategorisiert. Dazu haben wir sowohl öffentlich verfügbare Bilddatenbanken wie CUReT und GeoMat
-                        genutzt, als auch auf von Fischer bereitgestellte Bilder aus der Fischer Pro App
-                        zurückgegriffen.
+                        Zunächst haben wir recherchiert, welche Bibliotheken zu Wandmaterial bereits existieren. Wir
+                        haben Bilddatenbanken wie CUReT und GeoMat gefunden und auch die von Fischer bereitgestellten
+                        Bilder aus der Fischer Pro App haben wir berücksichtigt.
                     </p>
 
                     <figure>
