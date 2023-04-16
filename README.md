@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# fischerFinder Info-Website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Diese Info-Website informiert über die Hintergründe und technischen Details von fischerFinder.
 
 ## Setup
 
