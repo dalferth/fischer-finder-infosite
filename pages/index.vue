@@ -5,12 +5,9 @@
 
             <section class="grid grid-cols-1 lg:grid-cols-3 gap-x-10">
 
-                <div class="col-span-2">
-                    <h1>
-                        <span class="text-primary">fischer</span>Finder
-                    </h1>
+                <div class="lg:col-span-2">
 
-                    <h2>Next Level Kundenservice</h2>
+                    <h1>Next Level Kundenservice</h1>
 
                     <p>
                         Mit dem fischerFinder findet jeder Kunde das <strong>richtige Befestigungsprodukt</strong> für
@@ -23,7 +20,7 @@
 
                     <ul class="mb-2">
                         <li>modernste <strong>Künstliche Intelligenz</strong>, um Eingaben des Kunden sowohl in Text-,
-                            Bild- als auch Audioform in klare Merkmale umzuwandeln,
+                            Bild- als auch Audioform in konkrete Merkmale umzuwandeln,
                         </li>
                         <li>einen bereits in Teilen vorhandenen <strong>Entscheidungsbaum</strong> aktualisiert mit der
                             fischer Produkt-API
@@ -41,7 +38,7 @@
                     </blockquote>
                 </div>
 
-                <div class="col-span-1">
+                <div class="lg:col-span-1 px-6 lg:px-0">
                     <Smartphone />
                 </div>
 
@@ -178,10 +175,10 @@
                     </p>
 
                     <figure>
-                        <img src="~/assets/img/curet_dataset.png" alt="CUReT dataset" class="max-w-md" />
+                        <img src="~/assets/img/curet_dataset.png" alt="CUReT dataset" class="max-w-md w-full" />
                         <figcaption>
                             CUReT dataset - erste groß angelegte Textur-/Materialdatensatz, Bereitstellung von 61
-                            Materialkategorien, fotografiert in 205 Betrachtungs- und Lichtverhältnisse. <br> (<a
+                            Materialkategorien, fotografiert in 205 Betrachtungs- und Lichtverhältnisse. (<a
                                 href="https://www.cs.columbia.edu/CAVE/software/curet/html/sample.html" target="_blank">Quelle</a>)
                         </figcaption>
                     </figure>

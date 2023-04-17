@@ -10,10 +10,15 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
+            title: 'fischerFinder',
             meta: [
+                {name: 'description', content: 'Mit dem fischerFinder findet jeder Kunde das richtige fischer Befestigungssystem für seinen konkreten Anwendungsfall.Mit dem fischerFinder findet jeder Kunde das richtige fischer Befestigungssystem für seinen konkreten Anwendungsfall.'},
                 {name: 'robots', content: 'noindex, nofollow'}
             ]
         },
+    },
+    experimental: {
+        noScripts: true
     },
     css: ['~/assets/css/main.css'],
     modules: [

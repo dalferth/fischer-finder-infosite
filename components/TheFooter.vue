@@ -11,8 +11,19 @@
                         <div>
                             <ul class="list-none flex flex-col gap-2 pl-0">
                                 <li>
-                                    <a href="mailto:hallo@qrcheck.app" target="_blank">Support per E-Mail
-                                                                                       kontaktieren</a>
+                                    <a href="mailto:fischer-finder@qrcheck.app" target="_blank"> Team per E-Mail
+                                                                                        kontaktieren </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://www.linkedin.com/in/bdwebnet/" target="_blank"> Benedikt auf
+                                                                                                     LinkedIn </a>
+                                </li>
+
+                                <li>
+                                    <a href="https://www.linkedin.com/in/ottenhaus/" target="_blank">
+                                        Christian auf LinkedIn
+                                    </a>
                                 </li>
                             </ul>
                         </div>
@@ -33,6 +44,11 @@
                                 <li>
                                     <a href="https://github.com/bdwebnet/fischer-finder-infosite" target="_blank">GitHub
                                                                                                                   (Info-Website)</a>
+                                </li>
+                                <li>
+                                    <a href="https://mesh-stuttgart.de/" target="_blank">
+                                        Zur Website vom MESH Hackathon
+                                    </a>
                                 </li>
                             </ul>
                         </div>
@@ -65,7 +81,7 @@
             <div>
                 Diese Website entstand im Rahmen des <a href="https://mesh-stuttgart.de/" target="_blank">MESH Hackathon
                                                                                                           2023</a> und
-                der Challenge von <a href="https://fischer.group/" target="_blank">Fischer</a>.
+                der Challenge von <a href="https://fischer.de/" target="_blank">fischer</a>.
             </div>
 
             <div>

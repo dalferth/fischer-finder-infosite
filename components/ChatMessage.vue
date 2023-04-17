@@ -5,6 +5,11 @@ const props = defineProps({
         default: 'me',
         required: true,
     },
+    padding: {
+        type: String,
+        default: '',
+        required: false
+    }
 })
 
 const directionClasses = computed(() => {
@@ -17,11 +22,7 @@ const directionClasses = computed(() => {
 </script>
 
 <template>
-    <div class="flex">
-        <div class=" w-80 px-4 py-2 rounded-t-xl" :class="directionClasses">
-            <div id="content">
-                <slot />
-            </div>
-        </div>
+    <div class="max-w-[90%] rounded-t-xl p-3" :class="directionClasses">
+        <slot />
     </div>
 </template>

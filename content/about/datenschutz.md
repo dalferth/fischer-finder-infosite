@@ -14,9 +14,9 @@ Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
 ## Verantwortlicher
 
-Diese Website ist ein Angebot von
+Die Website ist ein gemeinsames Angebot von
 
-Benedikt Dalferth
+Christian Ottenhaus und Benedikt Dalferth
 
 c/o   
 BD-web   

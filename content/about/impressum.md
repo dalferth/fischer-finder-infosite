@@ -1,10 +1,12 @@
 # Impressum
 
-Diese Website entstand im Rahmen des MESH Hackathon 2023 und der Challenge von Fischer.
+Diese Website entstand im Rahmen des MESH Hackathon 2023 und der Challenge von fischer.
 
-Die Website ist ein Angebot von
+## Anbieter
 
-Benedikt Dalferth
+Die Website ist ein gemeinsames Angebot von
+
+Christian Ottenhaus und Benedikt Dalferth
 
 c/o   
 BD-web   
@@ -14,7 +16,9 @@ Deutschland
 
 ## Kontaktmöglichkeiten
 
-E-Mail-Adresse: hallo@qrcheck.app
+Team / Allgemeine Anfragen: fischer-finder@qrcheck.app
+
+Rechtliches: hallo@qrcheck.app
 
 Telefon: +49 1575 210 00 06
 

@@ -20,8 +20,8 @@ const messages = [
 </script>
 
 <template>
-    <div class="min-h-full overflow-x-hidden overflow-y-scroll">
-        <div id="messages" class="flex flex-col gap-3">
+    <div class="min-h-full">
+        <div id="messages" class="flex flex-col gap-3 overflow-x-hidden">
             <ChatMessage owner="me">
                 Moin
             </ChatMessage>
@@ -30,8 +30,8 @@ const messages = [
                 Hi! Ich helfe dir, das richtige fischer Befestigungsprodukt zu finden. Wenn du z.B. etwas an einer Wand befestigen möchtest, kannst du mir ein Bild davon schicken.
             </ChatMessage>
 
-            <ChatMessage owner="me">
-                <img src="~/assets/img/reside-ga81622b37_640.jpg">
+            <ChatMessage owner="me" padding="none">
+                <img src="~/assets/img/room-g2837805aa_1920.jpg" class="rounded-t rounded-l">
             </ChatMessage>
 
             <ChatMessage owner="fischer">
