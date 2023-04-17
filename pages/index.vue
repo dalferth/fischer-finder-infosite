@@ -107,6 +107,9 @@
 
                 <figure>
                     <img src="~/assets/img/fischerFinder_Modell.png" alt="Aufbau des fischerFinders">
+                    <figcaption>
+                        Technischer Aufbau des fischerFinders (<NuxtLink to="/about/lizenzen">Bild-/Icon-Quellen</NuxtLink>)
+                        </figcaption>
                 </figure>
 
             </section>
