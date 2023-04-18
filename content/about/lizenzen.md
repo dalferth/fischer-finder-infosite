@@ -1,12 +1,13 @@
 # Lizenzhinweise
 
-Diese Website entstand im Rahmen des [MESH Hackathon 2023](https://mesh-hackathon.de/){:target="_blank"} und der
-Challenge von [fischer](https://www.fischer.de/){:target="_blank"}, weshalb sie an den Design-Stil von
-fischer angepasst ist.
+Diese Website entstand im Rahmen des [MESH23 Hackathons](https://mesh-hackathon.de/){:target="_blank"} und der
+Challenge von [fischer Befestigungssysteme](https://www.fischer.de/){:target="_blank"}, weshalb sie an den Design-Stil
+von fischer Befestigungssysteme angepasst ist.
 
 ## Verwendete Bilder/Icons
 
-- [https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/](https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/){:target="_blank"}
+- [https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/](https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/){:
+  target="_blank"}
 - [unDraw](https://undraw.co/){:target="_blank"}
 - [User icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/user){:target="_blank"}
 - [Image Comics icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/image-comics){:target="_blank"}

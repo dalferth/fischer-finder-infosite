@@ -12,7 +12,7 @@
                             <ul class="list-none flex flex-col gap-2 pl-0">
                                 <li>
                                     <a href="mailto:fischer-finder@qrcheck.app" target="_blank"> Team per E-Mail
-                                                                                        kontaktieren </a>
+                                                                                                 kontaktieren </a>
                                 </li>
 
                                 <li>
@@ -21,9 +21,8 @@
                                 </li>
 
                                 <li>
-                                    <a href="https://www.linkedin.com/in/ottenhaus/" target="_blank">
-                                        Christian auf LinkedIn
-                                    </a>
+                                    <a href="https://www.linkedin.com/in/ottenhaus/" target="_blank"> Christian auf
+                                                                                                      LinkedIn </a>
                                 </li>
                             </ul>
                         </div>
@@ -46,9 +45,8 @@
                                                                                                                   (Info-Website)</a>
                                 </li>
                                 <li>
-                                    <a href="https://mesh-stuttgart.de/" target="_blank">
-                                        Zur Website vom MESH Hackathon
-                                    </a>
+                                    <a href="https://mesh-stuttgart.de/" target="_blank"> Zur Website vom MESH
+                                                                                          Hackathon </a>
                                 </li>
                             </ul>
                         </div>
@@ -79,9 +77,9 @@
 
         <div class="container py-4 text-sm flex place-content-between flex-wrap gap-3">
             <div>
-                Diese Website entstand im Rahmen des <a href="https://mesh-stuttgart.de/" target="_blank">MESH Hackathon
-                                                                                                          2023</a> und
-                der Challenge von <a href="https://fischer.de/" target="_blank">fischer</a>.
+                Diese Website entstand im Rahmen des <a href="https://mesh-stuttgart.de/" target="_blank">MESH23
+                                                                                                          Hackathons</a>
+                und der Challenge von <a href="https://fischer.de/" target="_blank">fischer Befestigungssysteme</a>.
             </div>
 
             <div>

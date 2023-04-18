@@ -14,7 +14,7 @@ Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
 ## Verantwortlicher
 
-Die Website ist ein gemeinsames Angebot von
+Die Website wird betrieben von
 
 Christian Ottenhaus und Benedikt Dalferth
 
