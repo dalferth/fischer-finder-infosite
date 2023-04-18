@@ -52,7 +52,7 @@
                     Ein Heimwerker möchte ein Bild an seiner Wand aufhängen. Er kennt sich jedoch nicht mit Dübeln aus
                     und weiß auch nicht, aus welchem Material seine Wand besteht. Hier kommt fischerFinder ins Spiel:
                     Der Kunde kann seine Frage nach dem richtigen Dübel ganz einfach per <strong>WhatsApp</strong> als
-                    <strong>Text-, Audio- oder Bild-Nachricht</strong> an fischerFinde senden.
+                    <strong>Text-, Audio- oder Bild-Nachricht</strong> an den fischerFinder senden.
                 </p>
 
                 <p>
