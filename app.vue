@@ -19,5 +19,13 @@
         <TheFooter />
     </div>
 </template>
+
 <script setup lang="ts">
+useHead({
+    titleTemplate:
+        (titleChunk) => {
+            const siteTitle = 'fischerFinder'
+            return titleChunk ? `${titleChunk} – ${siteTitle}` : siteTitle
+        }
+})
 </script>
