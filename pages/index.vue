@@ -95,7 +95,7 @@
                     </li>
                     <li>
                         Mithilfe der konkreten Produktmerkmalen wird dann versucht ein Produkt in der aktuellen bzw.
-                        später optimierten <strong>Fischer-API</strong> (s. Optimierung bestehender Daten) / <strong>Decision
+                        später optimierten <strong>fischer-API</strong> (s. Optimierung bestehender Daten) / <strong>Decision
                                                                                                                      Tree</strong>.
                     </li>
                     <li>
