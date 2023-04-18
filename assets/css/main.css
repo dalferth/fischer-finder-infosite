@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  @apply scroll-smooth scroll-mt-20;
+}
+
 @layer base {
   :root {
     font-size: 18px;
