@@ -4,7 +4,13 @@
 
 @layer base {
   :root {
-    font-size: 20px;
+    font-size: 18px;
+  }
+
+  @screen md {
+    :root {
+      font-size: 22px;
+    }
   }
 
   .container {
