@@ -6,8 +6,7 @@ von fischer Befestigungssysteme angepasst ist.
 
 ## Verwendete Bilder/Icons
 
-- [https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/](https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/){:
-  target="_blank"}
+- [https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/](https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/){:target="_blank"}
 - [unDraw](https://undraw.co/){:target="_blank"}
 - [User icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/user){:target="_blank"}
 - [Image Comics icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/image-comics){:target="_blank"}
