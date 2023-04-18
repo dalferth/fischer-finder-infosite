@@ -8,6 +8,7 @@ fischer angepasst ist.
 
 - [https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/](https://pixabay.com/photos/room-space-empty-inner-space-floor-3443932/){:target="_blank"}
 - [unDraw](https://undraw.co/){:target="_blank"}
+- [User icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/user){:target="_blank"}
 - [Image Comics icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/image-comics){:target="_blank"}
 - [Speaker icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/speaker){:target="_blank"}
 - [Font icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/font){:target="_blank"}

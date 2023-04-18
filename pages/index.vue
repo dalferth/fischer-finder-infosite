@@ -108,8 +108,10 @@
                 <figure>
                     <img src="~/assets/img/fischerFinder_Modell.png" alt="Aufbau des fischerFinders">
                     <figcaption>
-                        Technischer Aufbau des fischerFinders (<NuxtLink to="/about/lizenzen">Bild-/Icon-Quellen</NuxtLink>)
-                        </figcaption>
+                        Technischer Aufbau des fischerFinders (
+                        <NuxtLink to="/about/lizenzen">Bild-/Icon-Quellen</NuxtLink>
+                        )
+                    </figcaption>
                 </figure>
 
             </section>
@@ -197,7 +199,9 @@
                         <img src="~/assets/img/fischer_pro.png" alt="Fischer PRO Dataset">
                         <figcaption>
                             Fischer Pro App hat diese gelabelten Oberflächenbilder. Darauf basierend können wir eine
-                            Datenbank erstellen. Sie können als Grundlage dienen.
+                            Datenbank erstellen. Sie können als Grundlage dienen. (<a
+                                href="https://www.fischer.de/de-de/service/wir-helfen-weiter/profi-berater"
+                                target="_blank">Quelle</a>)
                         </figcaption>
                     </figure>
 
