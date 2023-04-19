@@ -95,8 +95,10 @@
                     </li>
                     <li>
                         Mithilfe der konkreten Produktmerkmalen wird dann versucht, ein Produkt in der aktuellen bzw.
-                        später optimierten <strong>fischer-API</strong> (s. <a href="#optimierungBestehenderDaten">Optimierung bestehender Daten</a>) / <strong>Decision
-                                                                                                                     Tree</strong>.
+                        später optimierten <strong>fischer-API</strong> (s. <a href="#optimierungBestehenderDaten">Optimierung
+                                                                                                                   bestehender
+                                                                                                                   Daten</a>)
+                        / <strong>Decision Tree</strong>.
                     </li>
                     <li>
                         Ist diese Suche erfolgreich, wird das <strong>Produkt an den Nutzer gesendet</strong>. Sollten
@@ -191,7 +193,8 @@
                     <figure>
                         <img src="~/assets/img/geomat_dataset.png" alt="GeoMat Dataset">
                         <figcaption>
-                            GeoMat Dataset - 19 verschiedene Materialkategorien
+                            GeoMat Dataset - 19 verschiedene Materialkategorien (<a
+                                href="http://josephdegol.com/docs/GeoMatRec_CVPR16_Paper.pdf" target="_blank">Quelle</a>)
                         </figcaption>
                     </figure>
 
